@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Sooj36.log"
+title                    : "Sooj36"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "sooj"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "sooj.log"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "하루하루는 성실하게 인생 전체는 되는대로"
+  bio              : "하루하루는 성실하게\n 인생 전체는 되는대로"
   location         : "Korea"
   email            :
   links:
