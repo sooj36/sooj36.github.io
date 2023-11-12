@@ -116,8 +116,8 @@ author:
       # url: "sooj36@naver.com"
       
     - label: "GitHub"
-      icon: "https://github.com/sooj36"
-      # url: "https://github.com/"
+      icon: "fab fa-fw fa-gitHub"
+      # url: "https://github.com/sooj36"
     - label: "Velog"
       icon: "fab fa-fw fa-instagram"
       # url: "https://velog.io/@sooj23"
@@ -125,24 +125,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      # url: fab fa-fw fa-instagram
 
 
 # Reading Files
