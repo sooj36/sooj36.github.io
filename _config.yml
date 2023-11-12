@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -22,10 +22,10 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "sooj"
 description              : "An amazing website."
 url                      : "https://sooj36.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "https://velog.io/@sooj23"
+repository               : # GitHub username/repo-name e.g. "sooj36/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "\Users\korea\Desktop\1684995903686.jpg"
-logo                     : # path of logo image to display in the masthead, e.g. "\Users\korea\Desktop\1684995903686.jpg"
+logo                     : "\Users\korea\Desktop\1684995903686.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
